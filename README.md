@@ -257,7 +257,7 @@ Si tienes ideas para mejorar el diseño del sitio web (por ejemplo, un fondo má
 
 ## 💡 Créditos y agradecimientos
 
-Este proyecto es una web diseñada para facilitar la búsqueda de códigos de cámaras en Rust. Agradecemos cualquier contribución que ayude a mejorar su funcionalidad y diseño.
+Este proyecto es una web diseñada para facilitar la búsqueda de códigos de las cámaras en Rust. Agradecemos cualquier contribución que ayude a mejorar su funcionalidad y diseño.
 
 ---
 
