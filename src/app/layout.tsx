@@ -128,16 +128,16 @@ export const metadata: Metadata = {
   // bookmarks: ['https://nextjs.org/13'],
   category: 'rust-cctv-codes',
 
-  // icons: {
-  //   icon: [
-  //     { url: '/favicon_16x16.ico', type: 'image/x-icon', sizes: '16x16' },
-  //     { url: '/favicon_32x32.ico', type: 'image/x-icon', sizes: '32x32' },
-  //     { url: '/favicon_48x48.ico', type: 'image/x-icon', sizes: '48x48' },
-  //     { url: '/favicon_64x64.ico', type: 'image/x-icon', sizes: '64x64' },
-  //     { url: '/favicon_128x128.ico', type: 'image/x-icon', sizes: '128x128' },
-  //     { url: '/favicon_256x256.ico', type: 'image/x-icon', sizes: '256x256' },
-  //   ],
-  // },
+  icons: {
+    icon: [
+      // { url: '/favicon_16x16.ico', type: 'image/x-icon', sizes: '16x16' },
+      // { url: '/favicon_32x32.ico', type: 'image/x-icon', sizes: '32x32' },
+      // { url: '/favicon_48x48.ico', type: 'image/x-icon', sizes: '48x48' },
+      // { url: '/favicon_64x64.ico', type: 'image/x-icon', sizes: '64x64' },
+      // { url: '/favicon_128x128.ico', type: 'image/x-icon', sizes: '128x128' },
+      { url: '/favicon_256x256.ico', type: 'image/x-icon', sizes: '256x256' },
+    ],
+  },
 }
 
 export const viewport: Viewport = {
