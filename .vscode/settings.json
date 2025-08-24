@@ -1,5 +1,4 @@
 {
-  // Configuración de formato
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[javascript]": {
@@ -7,9 +6,8 @@
   },
   "prettier.trailingComma": "es5",
   "prettier.semi": false,
-  "prettier.singleQuote": true, // ''
+  "prettier.singleQuote": true,
 
-  // Configuración de ESLint
   "eslint.enable": true,
   "eslint.validate": [
     "javascript",
@@ -18,12 +16,10 @@
     "typescriptreact"
   ],
 
-  // Acciones de código
   "editor.codeActionsOnSave": {
-    "source.organizeImports": "explicit" // Organiza las importaciones de manera explícita al guardar archivos
+    "source.organizeImports": "explicit"
   },
-
-  // Configuración de anidamiento de archivos
+  
   "explorer.fileNesting.enabled": true,
   "explorer.fileNesting.patterns": {
     "*.ts": "$(capture).test.ts, $(capture).test.tsx",
