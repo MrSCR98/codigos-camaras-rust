@@ -189,6 +189,13 @@ export const listaMonumentos: Expand<Monumento[]> = [
       'TECHCABINET',
     ],
   },
+  {
+    titulo: 'Metro',
+    descripcion:
+      'Estos códigos son diferentes, pero siempre comienzan con los mismos patrones. Deberás encontrar el terminal informático si está y revisar los códigos, allí verás una versión completa, donde al patrón inicial se le añaden números al final, como "OUTDOOR1231".',
+    subRuta: 'METRO',
+    codigos: ['OUTDOOR'],
+  },
 ].map((monumentoInfo, index) =>
   construirMonumento({ ...monumentoInfo, id: index + 1 })
 )

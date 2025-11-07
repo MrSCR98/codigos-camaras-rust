@@ -109,6 +109,10 @@
 - SPECTRE
 - TECHCABINET\*\*\*\* // no encontrado
 
+## Metro
+
+- OUTDOOR\*\*\*\*
+
 Este repositorio contiene una recopilación de códigos para las cámaras CCTV de los diferentes monumentos en el juego **Rust**. Además, incluye instrucciones para contribuir y personalizar el proyecto.
 
 ## 🚀 Cómo comenzar
