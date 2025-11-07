@@ -53,7 +53,19 @@
 
 ## Terminal del Transbordador / Ferry Terminal
 
-- COBALT1 // ID carama dentro del juego 5707
+- FERRYDOCK
+- FERRYPARKING
+- FERRYUTILITIES
+- FERRYLOGISTICS
+- ~~COBALT1~~ // ID carama dentro del juego 5707
+
+## Buque de carga / Cargo
+
+- CARGODECK
+- CARGOBRIDGE
+- CARGOSTERN
+- CARGOHOLD1
+- CARGOHOLD2
 
 ---
 
