@@ -131,7 +131,8 @@ export const listaMonumentos: Expand<Monumento[]> = [
   {
     titulo: 'Terminal del Transbordador',
     subRuta: 'TERMINAL-DEL-TRANSBORDADOR',
-    codigos: ['COBALT1'],
+    // codigos: ['COBALT1'],
+    codigos: ['FERRYDOCK', 'FERRYPARKING', 'FERRYUTILITIES', 'FERRYLOGISTICS'],
   },
   {
     titulo: 'Ruinas',
@@ -147,6 +148,17 @@ export const listaMonumentos: Expand<Monumento[]> = [
     titulo: 'Campamento de Bandoleros',
     subRuta: 'BANDIT',
     codigos: ['CASINO', 'TOWNWEAPONS'],
+  },
+  {
+    titulo: 'Buque de carga',
+    subRuta: 'CARGO',
+    codigos: [
+      'CARGODECK',
+      'CARGOBRIDGE',
+      'CARGOSTERN',
+      'CARGOHOLD1',
+      'CARGOHOLD2',
+    ],
   },
   {
     titulo: 'Base Militar Abandonada',
